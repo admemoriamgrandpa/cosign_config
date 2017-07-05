@@ -7,9 +7,15 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
-      }
+      },
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }	    
     ],
-	  "fake_gps": false,
+    "fake_gps": false,
     "gps_tty_path":"/dev/ttyAMA0",
     "ref_latitude": 55.785622,
     "ref_longitude": 12.521317,
