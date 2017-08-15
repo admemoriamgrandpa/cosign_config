@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE4E55FB",
+    "gateway_ID": "B827EBFFFE8CDF5C",
     "servers": [
       {
         "server_address": "ec2-35-166-186-106.us-west-2.compute.amazonaws.com",
